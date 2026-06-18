@@ -57,15 +57,3 @@ It depends on how easy it is. If everyone is already using it, then yes. It need
 **Q: What feature would you find most useful?**  
 Search by location on campus. If I lost my bag near the gym I want to filter by gym, not scroll through everything.
 
----
-
-## Interview 5
-
-**Participant:** 2nd year student  
-**Date:** June 2026
-
-**Q: Have you ever lost something valuable on campus?**  
-Yes, my AirPods. I never found them. I posted on Instagram stories but got no response.
-
-**Q: What would an ideal lost and found system look like for you?**  
-Something where I can post with a photo and someone can message me if they found it. Simple and fast.
