@@ -1,0 +1,8 @@
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
+  "build": {
+    "env": {
+      "VITE_API_URL": "https://backend-three-olive-53.vercel.app"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.db
+.env
+.venv
+venv/
+
+# Node
+node_modules/
+dist/
+.env.local
+.env.production.local
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private study notes, keep local only
+VIVA-GUIDE.md
