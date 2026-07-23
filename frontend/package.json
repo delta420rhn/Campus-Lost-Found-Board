@@ -2,6 +2,7 @@
   "name": "campus-lost-found-frontend",
   "version": "1.0.0",
   "description": "Frontend for Campus Lost & Found Board",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
